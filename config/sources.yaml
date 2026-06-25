@@ -1,0 +1,22 @@
+{
+  "thresholds": {"candidate": 55, "important": 75},
+  "collection": {"rss_lookback_days": 60, "max_items_per_feed": 50},
+  "rss": [
+    {"name": "OpenAI News", "url": "https://openai.com/news/rss.xml", "enabled": true},
+    {"name": "Anthropic News", "url": "https://www.anthropic.com/rss.xml", "enabled": false, "reason": "公式RSSのURLを確認できないためWeb検索で収集する"},
+    {"name": "Google Developers Blog", "url": "https://developers.googleblog.com/feeds/posts/default", "enabled": true}
+  ],
+  "search_queries": [
+    {"query": "AI agent engineering harness skills evaluation security", "enabled": true},
+    {"query": "生成AI ソフトウェア開発 SaaS 生産性 最新", "enabled": true},
+    {"query": "AIエージェント 構築 運用 権限 評価", "enabled": true}
+  ],
+  "trusted_domains": ["openai.com", "anthropic.com", "developers.googleblog.com", "deepmind.google", "arxiv.org", "github.com", "tech.layerx.co.jp", "developers.cyberagent.co.jp", "publickey1.jp", "zenn.dev", "qiita.com"],
+  "manual_urls": "inbox/manual-urls.md",
+  "workflowy": {
+    "enabled": true,
+    "parent_id": "inbox",
+    "recursive": true,
+    "api_key_env": "WORKFLOWY_API_KEY"
+  }
+}

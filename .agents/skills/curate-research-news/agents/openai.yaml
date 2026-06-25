@@ -1,0 +1,4 @@
+interface:
+  display_name: "リサーチニュース収集"
+  short_description: "記事候補を収集・評価してObsidianへ整理します"
+  default_prompt: "$curate-research-news を使って今週の候補記事を収集して。"
