@@ -353,6 +353,35 @@
     "topics": [],
     "url": "https://developers.cyberagent.co.jp/blog/archives/64022"
   },
+  "https://developers.googleblog.com/a2ui-and-mcp-apps": {
+    "accepted_at": "2026-06-30",
+    "article_path": "articles/2026/2026-06-30-a2ui-mcp-apps-combining-the-best-of-declarative-and-custom-a-2a133e08.md",
+    "collected": "2026-06-30",
+    "commentary": "",
+    "factual_summary": "This post introduces three architectural patterns designed to integrate Model Context Protocol (MCP) Apps and Agent-to-User Interface (A2UI) to solve the tradeoff between highly custom iframe environments and native, declarative rendering. By combining these approaches, developers can serve native-feeling UIs directly over MCP servers, embed complex and stateful iframe apps securely inside declarative views, or inject generative UI components into legacy systems. Ultimately, these hybrid framewo",
+    "full_text_read": false,
+    "mentions": 1,
+    "published": "",
+    "score": 65,
+    "scores": {
+      "freshness": 2,
+      "mentions": 0,
+      "novelty": 15,
+      "theme": 28,
+      "trust": 20
+    },
+    "source": "Google Developers Blog",
+    "source_type": "rss",
+    "sources": [
+      "Google Developers Blog"
+    ],
+    "title": "A2UI + MCP Apps: Combining the best of declarative and custom agentic UIs",
+    "topics": [
+      "ai-native-society",
+      "agent-engineering"
+    ],
+    "url": "https://developers.googleblog.com/a2ui-and-mcp-apps"
+  },
   "https://developers.googleblog.com/announcing-the-agentic-resource-discovery-specification": {
     "accepted_at": "2026-06-25",
     "article_path": "articles/2026/2026-06-25-announcing-the-agentic-resource-discovery-specification-e998c4e5.md",
@@ -901,6 +930,35 @@
     ],
     "url": "https://openai.com/index/endava-frontiers"
   },
+  "https://openai.com/index/how-agents-are-transforming-work": {
+    "accepted_at": "2026-06-30",
+    "article_path": "articles/2026/2026-06-25-how-agents-are-transforming-work-2b6976f9.md",
+    "collected": "2026-06-30",
+    "commentary": "",
+    "factual_summary": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
+    "full_text_read": false,
+    "mentions": 1,
+    "published": "2026-06-25",
+    "score": 73,
+    "scores": {
+      "freshness": 10,
+      "mentions": 0,
+      "novelty": 15,
+      "theme": 28,
+      "trust": 20
+    },
+    "source": "OpenAI News",
+    "source_type": "rss",
+    "sources": [
+      "OpenAI News"
+    ],
+    "title": "How agents are transforming work",
+    "topics": [
+      "ai-native-society",
+      "agent-engineering"
+    ],
+    "url": "https://openai.com/index/how-agents-are-transforming-work"
+  },
   "https://qiita.com/grhg/items/eee10528b403baf89631": {
     "accepted_at": "2026-06-15",
     "collected": "2026-06-15",
@@ -1230,6 +1288,35 @@
     "title": "「速く作る」から「正しく作る」へ ─ AI活用レベル3段階のロードマップ｜AI Engineering Summit Tokyo 2026 登壇レポート - Findy Tech Blog",
     "topics": [],
     "url": "https://tech.findy.co.jp/entry/2026/06/10/100000"
+  },
+  "https://tech.layerx.co.jp/entry/2026/06/25/162902": {
+    "accepted_at": "2026-06-30",
+    "article_path": "articles/2026/2026-06-30-31ai-layerx-bb92674d.md",
+    "collected": "2026-06-30",
+    "commentary": "WorkflowyのInboxへ「後で見る」として保存された候補。",
+    "factual_summary": "本文未確認。Codexで内容を確認してから採否を判断する。",
+    "full_text_read": false,
+    "mentions": 1,
+    "published": "",
+    "score": 59,
+    "scores": {
+      "freshness": 2,
+      "mentions": 0,
+      "novelty": 15,
+      "theme": 22,
+      "trust": 20
+    },
+    "source": "Workflowy Inbox",
+    "source_type": "manual",
+    "sources": [
+      "Workflowy Inbox"
+    ],
+    "title": "セールスのオンボーディング期間を3分の1に短縮した内製の「AIロープレ」 - LayerX エンジニアブログ",
+    "topics": [
+      "ai-native-society",
+      "agent-engineering"
+    ],
+    "url": "https://tech.layerx.co.jp/entry/2026/06/25/162902"
   },
   "https://tech.layerx.co.jp/entry/ai-agent-authorization": {
     "accepted_at": "2026-06-12",
